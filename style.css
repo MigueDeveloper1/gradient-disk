@@ -1,0 +1,23 @@
+body{
+    background-color: #fcf;
+}
+.main-div{
+    margin: 140px 50px;
+    background-image: conic-gradient(#1a2,
+     #afa,#f0f, #f00, #aa11ff, #0ff, #1a2);
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    border-radius: 500px;
+    border: solid .2  gray;
+    box-shadow: grey 4px 4px 4px;
+}
+.div-1{
+    margin:  100px 105px;
+    width: 90px;
+    height: 90px;
+    background-color:white;
+    border-radius: 90px;
+    border: solid 1 gray ;
+    box-shadow: inset grey 1px 1px .5px;
+}
